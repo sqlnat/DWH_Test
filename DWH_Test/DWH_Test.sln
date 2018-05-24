@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DWH_Test", "DWH_Test\DWH_Test.sqlproj", "{BBFE7210-9830-46AC-86DD-94BF3F72BBDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBFE7210-9830-46AC-86DD-94BF3F72BBDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBFE7210-9830-46AC-86DD-94BF3F72BBDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBFE7210-9830-46AC-86DD-94BF3F72BBDD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BBFE7210-9830-46AC-86DD-94BF3F72BBDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBFE7210-9830-46AC-86DD-94BF3F72BBDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBFE7210-9830-46AC-86DD-94BF3F72BBDD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51BE9063-DF92-4917-BBC0-0DDFC52FB4A5}
+	EndGlobalSection
+EndGlobal
